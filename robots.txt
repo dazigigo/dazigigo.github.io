@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://dazigigo.github.io/sitemap/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/mtu/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/NsR/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/vCP/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/Gdq/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/ESn/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/tuN/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/stc/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/lYk/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/Loi/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/vSL/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/KYk/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/JTt/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/oXZ/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/Bkb/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/Akt/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/tAG/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/xLC/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/TiL/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/jiw/sitemap_index.dazigigo
+Sitemap: https://dazigigo.github.io/reA/sitemap_index.dazigigo
